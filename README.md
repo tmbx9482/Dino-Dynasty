@@ -31,7 +31,6 @@
 Throughout many lost lands of the world, everyone always wonder how the world would be like if the Mesozoic era never happpen. Well, while traveling through tropical forests with many species, mysteries castles with dark entities and being the player of a 2D side scrolling adverture game with your favorite dinosaur. Dino Dynasty is here to show you what went on for thousands and thousands of years before extinction. If Dinosaur's had survived all the changes on Earth, and now, leaving their home; will they continue to resolute or follow fate as metors are incoming to earth before time runs out. 
 
 # User Story📙🤳
-A race before time! 
 ![Dino](https://user-images.githubusercontent.com/62157127/99466928-44c3e500-290b-11eb-87f0-66e290fde13d.gif)
 
 # Acceptance Criteria✅
@@ -70,8 +69,9 @@ run node server.js
 
 # Technologies🔭📱
 * Express
-* Mongoose (secondary data)
-* MYSQL (primary data)
+* Axios
+* AJAX
+* Mongoose 
 * Webpack
 * Webkit
 * REACT
