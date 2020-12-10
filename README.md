@@ -31,10 +31,8 @@
 Throughout many lost lands of the world, everyone always wonder how the world would be like if the Mesozoic era never happpen. Well, while traveling through tropical forests with many species, mysteries castles with dark entities and being the player of a 2D side scrolling adverture game with your favorite dinosaur. Dino Dynasty is here to show you what went on for thousands and thousands of years before extinction. If Dinosaur's had survived all the changes on Earth, and now, leaving their home; will they continue to resolute or follow fate as metors are incoming to earth before time runs out. 
 
 # User Story📙🤳
+
 ![Dino](https://user-images.githubusercontent.com/62157127/99466928-44c3e500-290b-11eb-87f0-66e290fde13d.gif)
-
-# Acceptance Criteria✅
-
 ```
 AS A USER, I want to be able to have fun with this game
 GIVEN I want to use the arrow keys want to move around 
@@ -42,6 +40,11 @@ WHEN I enter the mapp I can walk
 THEN I will be generating points for each enemy I face in combat.
 THEN I will be generating time by collecting timewatches in the game.
 
+```
+
+# Acceptance Criteria✅
+
+```
 GIVEN artwork sprites
 WHEN I explore the mapp, I will travel from point A to B.
 WHEN I come in contact with power up, DINO changes persona.
@@ -78,6 +81,7 @@ run node server.js
 * Node
 * Phaser 3 (API)
 * Tiled App (Level Design)
+* Piskel
 * Bootstrap 3 & 4
 * Animation
 * CSS
